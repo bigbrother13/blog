@@ -1,0 +1,7 @@
+ru:
+  common:
+    errors: 'При заполнении формы фозникли ошибки'
+    back: ''
+  posts:
+    new:
+      title:
