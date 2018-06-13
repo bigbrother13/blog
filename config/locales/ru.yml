@@ -1,7 +1,26 @@
 ru:
   common:
-    errors: 'При заполнении формы фозникли ошибки'
-    back: ''
+    errors: 'При заполнении формы возникли ошибки'
+    back: 'Назад'
+    create: 'Создать'
+    edit: 'Изменить'
+  layouts:
+    application:
+      title: 'Все статьи'
+      exit: 'Выход'
+      inter: 'Вход'
+      registration: 'Регистрация'
+  will_paginate:
+    previous_label: '&larr; Туда'
+    next_label: 'Сюда &rarr;'
   posts:
-    new:
-      title:
+    post:
+      edit: 'Изменить'
+      delete: 'Удалить'
+    show:
+      edit: 'Изменить'
+      delete: 'Удалить'
+    index:
+      title: 'Статьи'
+    new: 'Новая статья'
+  
